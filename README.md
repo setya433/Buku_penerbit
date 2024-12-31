@@ -43,8 +43,8 @@ cd Buku_penerbit
   
 8. paste link/ip yang anda dapat
     setelah menjalankan syntax
-   - php artidan serve
-     maka kita akan mendapatkan link atau ip seperti berikut    http://127.0.0.1:8000/   (link dapat berubah-ubah sesuai port yang digunakan).
+   - php artisan serve
+     maka kita akan mendapatkan link atau ip seperti berikut    http://127.0.0.1:8000/   (link dapat berubah-ubah sesuai port yang digunakan).paste link/ip tersebut kebrowser yang akan digunakan (Chrome,Mozilla,Opera,Microsoft Edge).
 
 # AKUN untuk Login
 username :
