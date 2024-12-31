@@ -36,10 +36,10 @@ cd Buku_penerbit
 
 6. jalankan semua syntax dibawah ini menggunakan terminal ataupun CMD
    # copy and paste:
-       - php artisan migrate
-       - php artisan storage:link
-       - php artisan db:seed
-       - php artisan serve
+       php artisan migrate
+       php artisan storage:link
+       php artisan db:seed
+       php artisan serve
   
 8. paste link/ip yang anda dapat
     setelah menjalankan syntax
