@@ -13,7 +13,7 @@ Ini adalah project Laravel yang berfungsi untuk perusahaan penerbit buku memanag
 
 Buka git bash lalu tulis code dibawah ini:
 git clone https://github.com/username/laravel-project.git](https://github.com/setya433/Buku_penerbit
-cd laravel-project
+cd Buku_penerbit
 
 2. buat database dengan nama buku
    masuk ke phpmyadmin lalu buat database dengan nama buku.
